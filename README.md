@@ -8,6 +8,6 @@ For my Java project Mancala, check out my repository Mancala.
 
 https://github.com/rikmwouters/Mancala
 
-For my C# test project using Windows forms, checkout my repository WindowsFormsTest.
+For my C# test project using Windows forms, checkout my repository WindowsFormTest.
 
-https://github.com/rikmwouters/WindowsFormsTest
+https://github.com/rikmwouters/WindowsFormTest
