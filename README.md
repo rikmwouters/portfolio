@@ -9,7 +9,9 @@ In this project, I'm building a database with interface for entomologists to sav
 An important part of the project is also the SQL database scripts. While in development, the scripts are made to build and rebuild the database, instead of altering it. Alterations to the tables, for example, are currently done by dropping all tables and creating them with the new DDL script.
 
 Here you can find the C# UI: https://github.com/rikmwouters/Rapento
+
 Here you can find the Delphi UI: https://github.com/rikmwouters/RapentoDelphi
+
 You can find the Entomological Database SQL scripts here: https://github.com/rikmwouters/EntomologicalDatabase
 
 --------------------------------------------------------------------------------------------------------------
