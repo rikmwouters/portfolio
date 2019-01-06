@@ -4,7 +4,7 @@
 
 Rapento - Entomological Database (C#/Delphi/SQL)
 
-In this project, I'm building a database with interface for entomologists to save their collections' data in. The project is currently mainly meant as a practicing playground for learning to program. I'm building UI's in both C# and Delphi, for the sake of learning the two languages and learning about their differences. I currently aim primarily at creating a simple means of inserting and retrieving data from the database.
+In this project, I'm building a database with interface for entomologists to save their collections' data in. The project is currently mainly meant as a practicing playground for learning to program. I'm building UI's in both C# and Delphi, for the sake of learning the two languages and learning about their differences. I currently aim primarily at creating a simple means of inserting into the database, and retrieving data from the database.
 
 An important part of the project is also the SQL database scripts. While in development, the scripts are made to build and rebuild the database, instead of altering it. Alterations to the tables, for example, are currently done by dropping all tables and creating them with the new DDL script.
 
